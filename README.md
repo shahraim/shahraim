@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahraim&label=Profile%20views&color=0e75b6&style=flat" alt="shahraim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahraim" alt="shahraim" /></a> </p>
 
 - 🔭 I’m currently working on [CRUD](https://react-assignment-indol.vercel.app/login)
 
@@ -20,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahraim_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahraim_khan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shahraim-khan-2280ab26b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shahraim-khan-2280ab26b" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/muhammad.shahraim.khan?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammad.shahraim.khan?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahraim-khan-2280ab26b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shahraim-khan-2280ab26b" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad.shahraim.khan?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammad.shahraim.khan?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad_shahraim_khan_niazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_shahraim_khan_niazi" height="30" width="40" /></a>
 </p>
 
